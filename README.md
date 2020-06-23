@@ -1,5 +1,4 @@
-## aws
-### DNS(Domain Name Service)
+### DNS(Domain Name Service)  - aws
 ---
 
 https://console.aws.amazon.com/route53/home#DomainListing:
